@@ -3,7 +3,7 @@ Make koroche minau soft tek juiege gana emes basqada softardy ustanovka zhasauga
 
 # KassaWrapper Software Installer
 
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue)]()
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
 
